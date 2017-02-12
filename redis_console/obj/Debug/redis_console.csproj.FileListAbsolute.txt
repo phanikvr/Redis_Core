@@ -1,0 +1,8 @@
+F:\phani\VS_LAB\redis_console\redis_console\bin\Debug\redis_console.exe.config
+F:\phani\VS_LAB\redis_console\redis_console\bin\Debug\redis_console.exe
+F:\phani\VS_LAB\redis_console\redis_console\bin\Debug\redis_console.pdb
+F:\phani\VS_LAB\redis_console\redis_console\bin\Debug\csredis.dll
+F:\phani\VS_LAB\redis_console\redis_console\bin\Debug\csredis.xml
+F:\phani\VS_LAB\redis_console\redis_console\obj\Debug\redis_console.csprojResolveAssemblyReference.cache
+F:\phani\VS_LAB\redis_console\redis_console\obj\Debug\redis_console.exe
+F:\phani\VS_LAB\redis_console\redis_console\obj\Debug\redis_console.pdb
